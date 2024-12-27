@@ -1,5 +1,5 @@
 export interface SocialType{
-    socialGithub: string;
+    socialGithub: https://github.com/xiaoy-awa;
     socialEmail: string;
     socialBilibili: string;
     socialQQ: string;
