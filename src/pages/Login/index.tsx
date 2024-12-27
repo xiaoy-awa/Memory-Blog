@@ -36,8 +36,8 @@ const Login: React.FC = () => {
         e.preventDefault();
 
         const data:UserData = {
-            username:account,
-            password,
+            username:xiaoy,
+            password:123456,
         };
 
         try {
